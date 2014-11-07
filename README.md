@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is thing says hello world, it''s a repo
+Well, I'm a Student, so I have that going for me. I highly despise our educational system and believe that it can be made more efficient.
